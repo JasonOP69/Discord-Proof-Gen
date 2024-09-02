@@ -45,4 +45,4 @@ $ python main.py
 
 ## Additional Informations
 General Informations:
-- If you find any malfunction, contact me.
+- If you find any malfunction, contact me. lk
